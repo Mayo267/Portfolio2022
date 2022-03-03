@@ -1,7 +1,13 @@
+body {
+  background-color: black;
+}
+
 .NavBarContainer {
   border: 1px solid black;
+  background-color: grey;
 }
 
 .mainPageContainer {
   border: 1px solid black;
+  background-color: grey;
 }
